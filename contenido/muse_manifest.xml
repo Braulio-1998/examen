@@ -1,0 +1,182 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="examendenextu.com" resolutions="1x" timestamp="1507648652447">
+  <folder name="css">
+    <file name="site_global.css" crc="4205409715"/>
+    <file name="master_a-p_g_-maestra.css" crc="4092876837" ref="fotografías:paisajes:index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="92188729" ref="fotografías:paisajes:index"/>
+    <file name="fotograf_as.css" crc="88702468" ref="fotografías"/>
+    <file name="nomq_fotograf_as.css" crc="4242676815" ref="fotografías"/>
+    <file name="paisajes.css" crc="4259446007" ref="paisajes"/>
+    <file name="nomq_paisajes.css" crc="195858397" ref="paisajes"/>
+    <file name="index.css" crc="3803792164" ref="index"/>
+    <file name="nomq_index.css" crc="424291157" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="imagen3.jpg" crc="522116342" seo="true" mt="1507583468000"/>
+    <file name="top-five-rewards-700x700.jpg" crc="229027432" seo="true" mt="1507583292000"/>
+    <file name="mutu---seo-página-web-v.1.2.mulib" crc="499783851" seo="true" mt="1488497351000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paisajes:fotografías"/>
+    <file name="museutils.js" crc="17924269" ref="index:paisajes:fotografías"/>
+    <file name="whatinput.js" crc="86476730" ref="index:paisajes:fotografías"/>
+    <file name="museconfig.js" crc="144853533" ref="index:paisajes:fotografías"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:paisajes:fotografías"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:paisajes:fotografías"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:paisajes:fotografías"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index:paisajes:fotografías"/>
+    <file name="require.js" crc="3861931657" ref="index:paisajes:fotografías"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="343430423" ref="index"/>
+    <file name="imagen1.jpg" crc="227257319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:paisajes:fotografías"/>
+    <file name="imagen2313x313.jpg" crc="4035093027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen3313x314.jpg" crc="4263192823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo de facebook.png" crc="3798125920" seo="true" ref="index:paisajes:fotografías">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="logo de youtube.jpg" crc="63232927" seo="true" ref="index:paisajes:fotografías">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen2441x441.jpg" crc="4181402420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen3442x441.jpg" crc="256932428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen2135x135.jpg" crc="3933131725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen3135x135.jpg" crc="329788865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen2309x310.jpg" crc="474241944" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen2309x309.jpg" crc="474241944" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen2517x517.jpg" crc="55631844" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen2211x211.jpg" crc="326419308" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen3321x321.jpg" crc="4125071135" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+    </file>
+    <file name="imagen3.jpg" crc="522116342" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+    </file>
+    <file name="imagen3334x334.jpg" crc="4219688899" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+    </file>
+    <file name="imagen3214x214.jpg" crc="22077003" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+    </file>
+    <file name="imagen2415x415.jpg" crc="477453016" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen2265x265.jpg" crc="3956050612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen3265x265.jpg" crc="4178098532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen2355x355.jpg" crc="262283734" seo="true" ref="paisajes">
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+      <caption webpage="paisajes" alt=""/>
+    </file>
+    <file name="imagen3395x395.jpg" crc="3854244947" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+    </file>
+    <file name="imagen3403x403.jpg" crc="4189517660" seo="true" ref="fotografías">
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+      <caption webpage="fotografías" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3833752905" seo="true" mt="1507648531966" redirect="true"/>
+  <file name="paisajes.html" crc="4136642278" seo="true" mt="1507648589894" redirect="true"/>
+  <file name="fotografías.html" crc="4261189635" seo="true" mt="1507648518862" redirect="true"/>
+</manifest>
